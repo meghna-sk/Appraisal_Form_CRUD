@@ -1,4 +1,4 @@
-# Appraisal-Form
+# Appraisal_Form_CRUD
   A single-page application for filling Employee Appraisal Forms. Can perform all CRUD operations
 ## Tools used
   1. MongoDB
