@@ -1,11 +1,5 @@
 # Appraisal-Form
-  A single-page application for filling Employee Appraisal Forms.
-## Features
-  1. Fill a new form
-  2. View all filled records
-  3. Search for an entry by id
-  4. Edit or delete any record
-  5. View any form filled and print a pdf copy of it
+  A single-page application for filling Employee Appraisal Forms. Can perform all CRUD operations
 ## Tools used
   1. MongoDB
   2. NodeJS
@@ -15,5 +9,5 @@
   In the directory run the following commands:
   1. `npm install`
   2. `npm start`
-  3. Website runs at localhost:8080
+  3. Website runs at localhost:3000
   
